@@ -55,6 +55,18 @@ STILL IN PROGRESS!!!
 
 ---
 
+## Getting Started
+
+Install Solid Edge for Linux client:
+
+1.) Download the original installer from the website of this program!
+
+2.) Open a terminal and run this command:
+
+    cd Downloads && WINEPREFIX="$HOME/.wineprefixes/solidedge" wine Solid_Edge_Community_*.exe
+
+---
+
 ## Important Notice
 
 With the help of my script, You get a way to install Solid Edge on your Linux system. 
