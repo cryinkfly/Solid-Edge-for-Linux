@@ -41,12 +41,12 @@ You will get more information about this program, then you can visit the origina
 <img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/program/%231-first-start.png?raw=true" width="300px" height="200px">
 </div>
 <div>
-<img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/KeyShot%2010/welcome-screen.png" width="300px" height="200px">
+<img src="https://github.com/cryinkfly/KeyShot-for-Linux/raw/main/files/images/welcome-screen.png" width="300px" height="200px">
 <img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/program/%232-first-start.png?raw=true" width="300px" height="200px">
 </div>
 <div>
 <img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/program/%236-first-start.png?raw=true" width="300px" height="200px">
-<img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/KeyShot%2010/%233-demo-car.png.png" width="300px" height="200px">
+<img src="https://github.com/cryinkfly/KeyShot-for-Linux/blob/main/files/images/%233-demo-car.png" width="300px" height="200px">
 </div>
 
 ---
