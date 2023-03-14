@@ -37,7 +37,7 @@ You will get more information about this program, then you can visit the origina
 
 ## Screenshots
 <div>
-<img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/installation/%235-installation.png?raw=true" width="300px" height="200px">
+<img src="https://user-images.githubusercontent.com/79079633/225079294-64d7dd03-ae05-4612-a20e-634eac93fedd.png" width="300px" height="200px">
 <img src="https://github.com/cryinkfly/Solid-Edge-for-Linux/blob/main/files/images/program/%231-first-start.png?raw=true" width="300px" height="200px">
 </div>
 <div>
