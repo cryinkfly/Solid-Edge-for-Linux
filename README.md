@@ -63,7 +63,7 @@ Install Solid Edge for Linux client:
 
 2.) Open a terminal and run this command:
 
-    cd Downloads && WINEPREFIX="$HOME/.wineprefixes/solidedge" wine Solid_Edge_Community_*.exe
+    cd Downloads && WINEPREFIX="$HOME/.wineprefixes/solidedge" winetricks -q win11 && WINEPREFIX="$HOME/.wineprefixes/solidedge" wine Solid_Edge_Community_*.exe
 
 ---
 
