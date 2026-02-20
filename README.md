@@ -1,3 +1,6 @@
+>[!WARNING]
+>This project has been archived here and will be continued exclusively on [Codeberg](https://codeberg.org/cryinkfly/Solid-Edge-on-Linux).
+
 ![banner-solid-edge](https://user-images.githubusercontent.com/79079633/153573732-8dffeeef-2d1c-466b-8551-ad15b9458a01.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/Solid-Edge-for-Linux?style=for-the-badge)
